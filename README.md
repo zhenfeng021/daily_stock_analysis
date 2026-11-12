@@ -4,14 +4,6 @@
 
 [![每日股票分析](https://github.com/zhenfeng021/daily_stock_analysis/actions/workflows/00-daily-analysis.yml/badge.svg?branch=main&event=schedule)](https://github.com/zhenfeng021/daily_stock_analysis/actions/workflows/00-daily-analysis.yml)
 
-
-## 🖥️ 产品预览
-
-<p align="center">
-  <a href="docs/assets/readme_workspace_tour_20260510.gif"><img src="docs/assets/readme_workspace_preview.gif" alt="DSA Web 工作台演示" width="640"></a><br>
-  <sub>点击动图查看完整演示</sub>
-</p>
-
 ## ✨ 功能特性
 
 | 能力 | 覆盖内容 |
